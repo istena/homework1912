@@ -1,0 +1,15 @@
+C:\GeekBrain\homework8\taskpaskal\bin\Debug\net6.0\taskpaskal.exe
+C:\GeekBrain\homework8\taskpaskal\bin\Debug\net6.0\taskpaskal.deps.json
+C:\GeekBrain\homework8\taskpaskal\bin\Debug\net6.0\taskpaskal.runtimeconfig.json
+C:\GeekBrain\homework8\taskpaskal\bin\Debug\net6.0\taskpaskal.dll
+C:\GeekBrain\homework8\taskpaskal\bin\Debug\net6.0\taskpaskal.pdb
+C:\GeekBrain\homework8\taskpaskal\obj\Debug\net6.0\taskpaskal.csproj.AssemblyReference.cache
+C:\GeekBrain\homework8\taskpaskal\obj\Debug\net6.0\taskpaskal.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrain\homework8\taskpaskal\obj\Debug\net6.0\taskpaskal.AssemblyInfoInputs.cache
+C:\GeekBrain\homework8\taskpaskal\obj\Debug\net6.0\taskpaskal.AssemblyInfo.cs
+C:\GeekBrain\homework8\taskpaskal\obj\Debug\net6.0\taskpaskal.csproj.CoreCompileInputs.cache
+C:\GeekBrain\homework8\taskpaskal\obj\Debug\net6.0\taskpaskal.dll
+C:\GeekBrain\homework8\taskpaskal\obj\Debug\net6.0\refint\taskpaskal.dll
+C:\GeekBrain\homework8\taskpaskal\obj\Debug\net6.0\taskpaskal.pdb
+C:\GeekBrain\homework8\taskpaskal\obj\Debug\net6.0\taskpaskal.genruntimeconfig.cache
+C:\GeekBrain\homework8\taskpaskal\obj\Debug\net6.0\ref\taskpaskal.dll
